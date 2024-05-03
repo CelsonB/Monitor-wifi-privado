@@ -6,6 +6,6 @@ class DadosController
 {
     public function dados()
     {
-        require ("views/Dados.view.php");
+        require ("views/Tabela.view.php");
     }
 }

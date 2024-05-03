@@ -6,6 +6,6 @@ class HomeController
 {
     public function index()
     {
-        require ("views/Teste.view.php");
+        require ("views/Home.view.php");
     }
 }
